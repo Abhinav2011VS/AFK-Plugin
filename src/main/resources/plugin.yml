@@ -1,0 +1,10 @@
+name: AFK
+version: '1.0'
+main: net.abhinav.afk.AFK
+api-version: '1.21'
+load: STARTUP
+authors: [ Abhinav VS ]
+commands:
+  afk:
+    description: Toggle AFK state
+    usage: /<command>
