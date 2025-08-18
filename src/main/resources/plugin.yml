@@ -1,5 +1,5 @@
 name: AFK
-version: '1.0'
+version: '1.1'
 main: net.abhinav.afk.AFK
 api-version: '1.21'
 load: STARTUP
